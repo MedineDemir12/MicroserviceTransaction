@@ -1,0 +1,9 @@
+{
+  "name" : "universal-medine-transaction",
+
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
